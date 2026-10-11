@@ -1,0 +1,8 @@
+interface:
+  display_name: "Vibe 知识短片导演"
+  short_description: "把知识做成情景驱动、无配音、有连续动效的中文短片"
+  default_prompt: "Use $vibe-knowledge-video-director to turn this topic into a researched, story-first Chinese knowledge video."
+  brand_color: "#D5A84B"
+
+policy:
+  allow_implicit_invocation: true
